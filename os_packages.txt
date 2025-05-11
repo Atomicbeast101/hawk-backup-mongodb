@@ -1,0 +1,4 @@
+mongodb-tools
+sshpass
+openssh
+zip
